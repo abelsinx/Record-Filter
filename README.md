@@ -13,3 +13,8 @@ ISSUES:
 POSSIBLE IMPROVEMENTS:
 - The program could take an imput of the order in which the user wants to sort the output. That would make it more practical.
 - Efficiency, as it is always something that can improve.
+
+PS:
+I added 2 files to test the program.
+
+Franklin Nunez
